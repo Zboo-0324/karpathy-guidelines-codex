@@ -1,5 +1,5 @@
 ---
-name: karpathy-guidelines
+name: karpathy-guidelines-codex
 description: Use when Codex is writing, reviewing, debugging, refactoring, or simplifying code and should bias toward compact, explicit, readable engineering choices inspired by Andrej Karpathy's coding style.
 ---
 

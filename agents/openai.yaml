@@ -1,6 +1,6 @@
 interface:
   display_name: "Karpathy Guidelines"
   short_description: "Compact, readable engineering style checks."
-  default_prompt: "Use $karpathy-guidelines while writing, reviewing, debugging, or refactoring code."
+  default_prompt: "Use $karpathy-guidelines-codex while writing, reviewing, debugging, or refactoring code."
 policy:
   allow_implicit_invocation: true
