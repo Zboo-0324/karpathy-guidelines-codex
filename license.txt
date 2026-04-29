@@ -1,0 +1,4 @@
+Derived from the public andrej-karpathy-skills project:
+https://github.com/forrestchang/andrej-karpathy-skills
+
+Original project license: MIT.
